@@ -11,7 +11,7 @@ This repository consist's of two major parts:
 ### The Build Up
 This section comprises of a number of folders that show the step by step establishment fo the final map that will be used in the challenge part of this analysis.
 
-This section consists of the following folders that correspinds to their contents by order of complexity from easy to difficult:
+This section consists of the following folders that corresponds to their contents by order of complexity from easy to difficult:
 - Simple Map
 - Mapping Multiple Points
 - Mapping Lines
