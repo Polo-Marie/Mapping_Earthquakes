@@ -3,8 +3,8 @@ console.log("working");
 
 // Create the map object with a center and zoom level.
 let map = L.map("mapid", {
-    center: [37.5, -122.5],
-    zoom: 10
+    center: [30, 30],
+    zoom: 2
 });
 
 // Add GeoJSON data.
@@ -43,6 +43,17 @@ let streets = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/navigation-ni
   zoomOffset: -1,
   accessToken: API_KEY
 }).addTo(map);
-    
+
 // Then we add our 'graymap' tile layer to the map.
 streets.addTo(map);
+
+// Accessing the airport GeoJSON URL
+let airportData = "https://raw.githubusercontent.com/Polo-Marie/Mapping_Earthquakes/main/Mapping_GeoJSON_Points/majorAirports.json";
+
+// Grabbing our GeoJSON data.
+d3.json(airportData).then(function(data) {
+  console.log(data);
+
+  // Creating a GeoJSON layer with the retrieved data.
+L.geoJson(data).addTo(map);
+});
