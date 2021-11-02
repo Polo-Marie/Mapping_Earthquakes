@@ -1,4 +1,5 @@
-# Mapping_Earthquakes
+# Mapping Earthquakes
+Storytelling worldwide earthquakes for the Disaster Reporting Network. 
 
 ## Introduction
 This project was done for the Disaster Reporting Network, a non-profit company that provides data driven storytelling of disasters around the world. This project provides insightful data visualization with interactive features on eathquakes from around the world.
