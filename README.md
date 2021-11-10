@@ -1,6 +1,9 @@
 # Mapping Earthquakes
 Storytelling worldwide earthquakes for the Disaster Reporting Network. 
 
+![](Photos/Day_Mode.png)
+
+
 ## Introduction
 This project was done for the Disaster Reporting Network, a non-profit company that provides data driven storytelling of disasters around the world. This project provides insightful data visualization with interactive features on eathquakes from around the world.
 
@@ -28,13 +31,22 @@ The following project's challenge was to create maps and various overlays vis th
 - Deliverable 3: Add an Additional Map
 
 #### Deliverable 1
-This deliverable required adding the tectonic plate to the already established map and also provides markers for each earthquakes that is the size and color of their magnitude and upon click, provides the information of both the magnitude and specific location. The map includes a color legend as well that indicated the severity/level of the earthquakes.
+This deliverable required adding the tectonic plate to the already established map and also provides markers for each earthquakes that is the size and color of their magnitude and upon click, provides the information of both the magnitude and specific location. The map includes a color legend as well that indicated the severity/level of the earthquakes. (Shown in Satellite Mode)
+
+![](Photos/Tectonic_Plates.png)
+
 
 #### Deliverable 2
-This deliverable involved identifying the major earthquakes of all that have occurred. This was done by establishing an additional overlay that helped those particular magnitudes to stand out around the world, apart from all the rest.
+This deliverable involved identifying the major earthquakes of all that have occurred. This was done by establishing an additional overlay that helped those particular magnitudes to stand out around the world, apart from all the rest. (Shown in Satellite Mode)
+
+![](Major_Earthquakes.png)
+
 
 #### Deliverable 3
-This deliverable established one last overlay of nighttime, or dark, to present an additional contrasting view of the map.
+This deliverable established one last overlay of nighttime, or dark, to present an additional contrasting view of the map. (Shown in Dark Mode)
+
+![](Dark_Mode.png)
+
 
 ## Conclusion
 This project is successfully completed. Please view the files in this GitHub repository for the full analysis.
