@@ -39,13 +39,13 @@ This deliverable required adding the tectonic plate to the already established m
 #### Deliverable 2
 This deliverable involved identifying the major earthquakes of all that have occurred. This was done by establishing an additional overlay that helped those particular magnitudes to stand out around the world, apart from all the rest. (Shown in Satellite Mode)
 
-![](Major_Earthquakes.png)
+![](Photos/Major_Earthquakes.png)
 
 
 #### Deliverable 3
 This deliverable established one last overlay of nighttime, or dark, to present an additional contrasting view of the map. (Shown in Dark Mode)
 
-![](Dark_Mode.png)
+![](Photos/Dark_Mode.png)
 
 
 ## Conclusion
