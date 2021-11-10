@@ -33,13 +33,13 @@ The following project's challenge was to create maps and various overlays vis th
 #### Deliverable 1
 This deliverable required adding the tectonic plate to the already established map and also provides markers for each earthquakes that is the size and color of their magnitude and upon click, provides the information of both the magnitude and specific location. The map includes a color legend as well that indicated the severity/level of the earthquakes. (Shown in Satellite Mode)
 
-![](Photos/Tectonic_Plates.png)
+![](Photos/Day_tectonic.png)
 
 
 #### Deliverable 2
 This deliverable involved identifying the major earthquakes of all that have occurred. This was done by establishing an additional overlay that helped those particular magnitudes to stand out around the world, apart from all the rest. (Shown in Satellite Mode)
 
-![](Photos/Major_Earthquakes.png)
+![](Photos/Day_major_earthquakes.png)
 
 
 #### Deliverable 3
